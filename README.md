@@ -1,7 +1,7 @@
 # DORO: Distributional and Outlier Robust Optimization
 **Runtian Zhai\*, Chen Dan\*, J. Zico Kolter, Pradeep Ravikumar**  
 In ICML 2021  
-Paper:
+Paper: [Link](http://proceedings.mlr.press/v139/zhai21a/zhai21a.pdf)
 
 ## Table of Contents
 - [Quick Start](#quick-start)
@@ -62,14 +62,22 @@ Please use `--download` to download the dataset if you are running for the first
 ## Citation and Contact
 Please use the following BibTex entry to cite this paper:
 ```
-@InProceedings{zhai21doro, 
-title = {DORO: Distributional and Outlier Robust Optimization}, 
-author = {Zhai, Runtian and Dan, Chen and Kolter, J. Zico and Ravikumar, Pradeep}, 
-booktitle = {Proceedings of the 38th International Conference on Machine Learning},
-year = {2021},
-volume = {139}, 
-series = {Proceedings of Machine Learning Research}, 
-publisher = {PMLR}}
+
+@InProceedings{pmlr-v139-zhai21a,
+  title = 	 {DORO: Distributional and Outlier Robust Optimization},
+  author =       {Zhai, Runtian and Dan, Chen and Kolter, Zico and Ravikumar, Pradeep},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {12345--12355},
+  year = 	 {2021},
+  editor = 	 {Meila, Marina and Zhang, Tong},
+  volume = 	 {139},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {18--24 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v139/zhai21a/zhai21a.pdf},
+  url = 	 {http://proceedings.mlr.press/v139/zhai21a.html}
+}
+
 ```
 
 To contact us, please email to the following address:
